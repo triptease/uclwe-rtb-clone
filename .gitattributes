@@ -1,0 +1,13 @@
+Data filter=lfs diff=lfs merge=lfs -text
+Data/valid_X filter=lfs diff=lfs merge=lfs -text
+Data/valid_y filter=lfs diff=lfs merge=lfs -text
+Data/drive-download-20181017T171255Z-001.zip filter=lfs diff=lfs merge=lfs -text
+Data/test_X filter=lfs diff=lfs merge=lfs -text
+Data/train_X_2 filter=lfs diff=lfs merge=lfs -text
+Data/train_y filter=lfs diff=lfs merge=lfs -text
+Data/test.csv filter=lfs diff=lfs merge=lfs -text
+Data/train.csv filter=lfs diff=lfs merge=lfs -text
+Data/train_X_1 filter=lfs diff=lfs merge=lfs -text
+Data/validation.csv filter=lfs diff=lfs merge=lfs -text
+Data/** filter=lfs diff=lfs merge=lfs -text
+i-ACR/train_X.npy filter=lfs diff=lfs merge=lfs -text
